@@ -1,0 +1,7 @@
+# keyboard
+
+## key rate
+
+`defaults write NSGlobalDomain KeyRepeat -int 1 # repeat speed`
+
+`defaults write NSGlobalDomain InitialKeyRepeat -int 10 # 按多久开始重复不知道怎么描述 😭`

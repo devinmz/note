@@ -12,3 +12,6 @@ oh-my-zsh
 
 starship
 
+## plugins
+
+    - zoxide

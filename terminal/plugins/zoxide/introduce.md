@@ -24,6 +24,12 @@ add this to the end of your shell config fil (~/.zshrc)
 
 `eval "$(zoxide init zsh)"`
 
+and
+
+you can set other alias by --cmd
+
+`eval "$(zoxide init --cmd j zsh)"` j instance of z
+
 ## dependencies
 
 -   fzf
